@@ -9,7 +9,10 @@ void main()
         printf("The numbers upto the limit:\n");
         flag = 1;
     }
+<<<<<<< HEAD
     //checking the exit condition
+=======
+>>>>>>> a850a3ef716442f614896de55e7008c1e4de7152
     if ( iter-1 == limit)
         return ;
   printf("%d\n",iter++);
